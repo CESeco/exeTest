@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceHolder.cpp
+ResourceHolder.hpp
+/home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceHolder.hpp
+
+/home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceHolder.hpp
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+ResourceManager.hpp
+/home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceManager.hpp
+
+/home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceManager.hpp
+unordered_map
+-
+stdexcept
+-
+SFML/Audio.hpp
+-
+string
+-
+memory
+-
+utility
+-
+ResourceManager.tpl
+/home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceManager.tpl
+
+/home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceManager.tpl
+

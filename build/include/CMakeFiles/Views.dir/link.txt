@@ -1,0 +1,2 @@
+/bin/ar qc libViews.a  CMakeFiles/Views.dir/Views/TileMapView.cpp.o CMakeFiles/Views.dir/Views/TileContainerView.cpp.o
+/bin/ranlib libViews.a

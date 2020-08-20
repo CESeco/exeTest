@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ash/Documents/github/SFMLoopShooter/include/Event/Action.cpp
+Action.hpp
+/home/ash/Documents/github/SFMLoopShooter/include/Event/Action.hpp
+
+/home/ash/Documents/github/SFMLoopShooter/include/Event/Action.hpp
+SFML/Window.hpp
+-
+

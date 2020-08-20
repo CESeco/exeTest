@@ -1,0 +1,2 @@
+/bin/ar qc libResource.a  CMakeFiles/Resource.dir/Resources/ResourceHolder.cpp.o
+/bin/ranlib libResource.a

@@ -1,0 +1,1 @@
+/bin/g++-9  -g   CMakeFiles/SFMLoopShooter.dir/main.cpp.o  -o SFMLoopShooter  -lsfml-window -lsfml-system -lsfml-graphics -lsfml-network -lsfml-audio ../include/libEntities.a ../include/libEvent.a ../include/libResource.a ../include/libViews.a ../include/libGameLogic.a ../include/libGUI.a 

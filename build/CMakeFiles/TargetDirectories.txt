@@ -1,0 +1,13 @@
+/home/ash/Documents/github/SFMLoopShooter/build/CMakeFiles/rebuild_cache.dir
+/home/ash/Documents/github/SFMLoopShooter/build/CMakeFiles/edit_cache.dir
+/home/ash/Documents/github/SFMLoopShooter/build/include/CMakeFiles/rebuild_cache.dir
+/home/ash/Documents/github/SFMLoopShooter/build/include/CMakeFiles/edit_cache.dir
+/home/ash/Documents/github/SFMLoopShooter/build/include/CMakeFiles/GUI.dir
+/home/ash/Documents/github/SFMLoopShooter/build/include/CMakeFiles/Views.dir
+/home/ash/Documents/github/SFMLoopShooter/build/include/CMakeFiles/Resource.dir
+/home/ash/Documents/github/SFMLoopShooter/build/include/CMakeFiles/Event.dir
+/home/ash/Documents/github/SFMLoopShooter/build/include/CMakeFiles/GameLogic.dir
+/home/ash/Documents/github/SFMLoopShooter/build/include/CMakeFiles/Entities.dir
+/home/ash/Documents/github/SFMLoopShooter/build/src/CMakeFiles/rebuild_cache.dir
+/home/ash/Documents/github/SFMLoopShooter/build/src/CMakeFiles/edit_cache.dir
+/home/ash/Documents/github/SFMLoopShooter/build/src/CMakeFiles/SFMLoopShooter.dir

@@ -1,0 +1,2 @@
+/bin/ar qc libGUI.a  CMakeFiles/GUI.dir/GUI/Button.cpp.o CMakeFiles/GUI.dir/GUI/Widget.cpp.o
+/bin/ranlib libGUI.a

@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/ash/Documents/github/SFMLoopShooter/build/include",
+  "command": "/bin/g++-9   -I/home/ash/Documents/github/SFMLoopShooter/include  -g   -o CMakeFiles/GUI.dir/GUI/Button.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/include/GUI/Button.cpp",
+  "file": "/home/ash/Documents/github/SFMLoopShooter/include/GUI/Button.cpp"
+},
+{
+  "directory": "/home/ash/Documents/github/SFMLoopShooter/build/include",
+  "command": "/bin/g++-9   -I/home/ash/Documents/github/SFMLoopShooter/include  -g   -o CMakeFiles/GUI.dir/GUI/Widget.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/include/GUI/Widget.cpp",
+  "file": "/home/ash/Documents/github/SFMLoopShooter/include/GUI/Widget.cpp"
+},
+{
+  "directory": "/home/ash/Documents/github/SFMLoopShooter/build/include",
+  "command": "/bin/g++-9   -I/home/ash/Documents/github/SFMLoopShooter/include  -g   -o CMakeFiles/Views.dir/Views/TileMapView.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.cpp",
+  "file": "/home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.cpp"
+},
+{
+  "directory": "/home/ash/Documents/github/SFMLoopShooter/build/include",
+  "command": "/bin/g++-9   -I/home/ash/Documents/github/SFMLoopShooter/include  -g   -o CMakeFiles/Views.dir/Views/TileContainerView.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/include/Views/TileContainerView.cpp",
+  "file": "/home/ash/Documents/github/SFMLoopShooter/include/Views/TileContainerView.cpp"
+},
+{
+  "directory": "/home/ash/Documents/github/SFMLoopShooter/build/include",
+  "command": "/bin/g++-9   -I/home/ash/Documents/github/SFMLoopShooter/include  -g   -o CMakeFiles/Resource.dir/Resources/ResourceHolder.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceHolder.cpp",
+  "file": "/home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceHolder.cpp"
+},
+{
+  "directory": "/home/ash/Documents/github/SFMLoopShooter/build/include",
+  "command": "/bin/g++-9   -I/home/ash/Documents/github/SFMLoopShooter/include  -g   -o CMakeFiles/Event.dir/Event/Action.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/include/Event/Action.cpp",
+  "file": "/home/ash/Documents/github/SFMLoopShooter/include/Event/Action.cpp"
+},
+{
+  "directory": "/home/ash/Documents/github/SFMLoopShooter/build/include",
+  "command": "/bin/g++-9   -I/home/ash/Documents/github/SFMLoopShooter/include  -g   -o CMakeFiles/GameLogic.dir/GameLogic/GameLogic.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/include/GameLogic/GameLogic.cpp",
+  "file": "/home/ash/Documents/github/SFMLoopShooter/include/GameLogic/GameLogic.cpp"
+},
+{
+  "directory": "/home/ash/Documents/github/SFMLoopShooter/build/include",
+  "command": "/bin/g++-9   -I/home/ash/Documents/github/SFMLoopShooter/include  -g   -o CMakeFiles/Entities.dir/Entity/Player.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/include/Entity/Player.cpp",
+  "file": "/home/ash/Documents/github/SFMLoopShooter/include/Entity/Player.cpp"
+},
+{
+  "directory": "/home/ash/Documents/github/SFMLoopShooter/build/src",
+  "command": "/bin/g++-9   -I/home/ash/Documents/github/SFMLoopShooter/include  -g   -o CMakeFiles/SFMLoopShooter.dir/main.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/src/main.cpp",
+  "file": "/home/ash/Documents/github/SFMLoopShooter/src/main.cpp"
+}
+]
