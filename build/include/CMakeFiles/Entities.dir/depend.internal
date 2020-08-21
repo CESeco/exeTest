@@ -8,6 +8,8 @@ include/CMakeFiles/Entities.dir/Entity/Player.cpp.o
  ../include/Event/ActionTarget.hpp
  ../include/Event/ActionTarget.tpl
  ../include/Event/EventRecorder.hpp
+ ../include/GameLogic/Configuration.hpp
+ ../include/GameLogic/NetworkHandler.hpp
  ../include/Resources/ResourceHolder.hpp
  ../include/Resources/ResourceManager.hpp
  ../include/Resources/ResourceManager.tpl

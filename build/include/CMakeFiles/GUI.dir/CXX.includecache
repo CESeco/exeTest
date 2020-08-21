@@ -96,8 +96,6 @@ Event/ActionTarget.hpp
 Event/Action.hpp
 -
 
-/home/ash/Documents/github/SFMLoopShooter/include/GUI/Widget.cpp
-
 /home/ash/Documents/github/SFMLoopShooter/include/GUI/Widget.hpp
 SFML/Graphics.hpp
 -

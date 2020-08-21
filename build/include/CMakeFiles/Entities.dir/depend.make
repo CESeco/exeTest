@@ -7,6 +7,8 @@ include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Event/ActionMap.
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Event/ActionTarget.hpp
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Event/ActionTarget.tpl
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Event/EventRecorder.hpp
+include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/GameLogic/Configuration.hpp
+include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/GameLogic/NetworkHandler.hpp
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Resources/ResourceHolder.hpp
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Resources/ResourceManager.hpp
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Resources/ResourceManager.tpl

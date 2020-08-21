@@ -37,6 +37,10 @@ Views/Configuration.hpp
 -
 Projectile.hpp
 ../include/Entity/Projectile.hpp
+SFML/Network.hpp
+-
+GameLogic/NetworkHandler.hpp
+-
 
 ../include/Entity/Projectile.hpp
 Entity.hpp
@@ -127,6 +131,8 @@ Configuration.hpp
 ../include/GameLogic/Configuration.hpp
 NetworkHandler.hpp
 ../include/GameLogic/NetworkHandler.hpp
+SFML/Network.hpp
+-
 
 ../include/GameLogic/NetworkHandler.hpp
 Configuration.hpp
@@ -230,5 +236,7 @@ GameLogic/NetworkInterface.hpp
 GameLogic/NetworkHandler.hpp
 -
 GameLogic/GameHost.hpp
+-
+SFML/Network.hpp
 -
 

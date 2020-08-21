@@ -52,6 +52,14 @@ vector
 functional
 -
 
+../include/GameLogic/Configuration.hpp
+
+../include/GameLogic/NetworkHandler.hpp
+Configuration.hpp
+../include/GameLogic/Configuration.hpp
+SFML/Network.hpp
+-
+
 ../include/Resources/ResourceHolder.hpp
 SFML/Graphics.hpp
 -
@@ -107,6 +115,10 @@ Views/Configuration.hpp
 -
 Projectile.hpp
 /home/ash/Documents/github/SFMLoopShooter/include/Entity/Projectile.hpp
+SFML/Network.hpp
+-
+GameLogic/NetworkHandler.hpp
+-
 
 /home/ash/Documents/github/SFMLoopShooter/include/Entity/Projectile.hpp
 Entity.hpp

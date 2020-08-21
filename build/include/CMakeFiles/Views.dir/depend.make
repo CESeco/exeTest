@@ -34,6 +34,7 @@ include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Event/ActionMap
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Event/ActionTarget.hpp
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Event/ActionTarget.tpl
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Event/EventRecorder.hpp
+include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/GameLogic/NetworkHandler.hpp
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Resources/ResourceHolder.hpp
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Resources/ResourceManager.hpp
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Resources/ResourceManager.tpl
