@@ -101,6 +101,10 @@ Resources/ResourceHolder.hpp
 /home/ash/Documents/github/SFMLoopShooter/include/Entity/Player.cpp
 Player.hpp
 /home/ash/Documents/github/SFMLoopShooter/include/Entity/Player.hpp
+windows.h
+-
+unistd.h
+-
 
 /home/ash/Documents/github/SFMLoopShooter/include/Entity/Player.hpp
 Entity.hpp

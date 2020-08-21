@@ -164,6 +164,12 @@ TileMapView.hpp
 GameLogic/GameLogic.hpp
 -
 
+/home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.cpp
+TileMapView.hpp
+/home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.hpp
+iostream
+-
+
 /home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.hpp
 fstream
 -
