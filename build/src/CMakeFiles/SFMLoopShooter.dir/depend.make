@@ -12,6 +12,10 @@ src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Event/ActionMap.tpl
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Event/ActionTarget.hpp
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Event/ActionTarget.tpl
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Event/EventRecorder.hpp
+src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/GUI/Button.hpp
+src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/GUI/Text.hpp
+src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/GUI/TextBox.hpp
+src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/GUI/Widget.hpp
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/GameLogic/Configuration.hpp
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/GameLogic/GameClient.hpp
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/GameLogic/GameHost.hpp
@@ -21,7 +25,9 @@ src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/GameLogic/NetworkInterf
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Resources/ResourceHolder.hpp
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Resources/ResourceManager.hpp
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Resources/ResourceManager.tpl
+src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Resources/configuration.hpp
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Views/Configuration.hpp
+src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Views/SplashScreen.hpp
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Views/TileContainerView.hpp
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../include/Views/TileMapView.hpp
 src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o: ../src/main.cpp

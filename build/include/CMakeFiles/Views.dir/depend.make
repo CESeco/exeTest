@@ -17,6 +17,7 @@ include/CMakeFiles/Views.dir/Views/TileContainerView.cpp.o: ../include/GameLogic
 include/CMakeFiles/Views.dir/Views/TileContainerView.cpp.o: ../include/Resources/ResourceHolder.hpp
 include/CMakeFiles/Views.dir/Views/TileContainerView.cpp.o: ../include/Resources/ResourceManager.hpp
 include/CMakeFiles/Views.dir/Views/TileContainerView.cpp.o: ../include/Resources/ResourceManager.tpl
+include/CMakeFiles/Views.dir/Views/TileContainerView.cpp.o: ../include/Resources/configuration.hpp
 include/CMakeFiles/Views.dir/Views/TileContainerView.cpp.o: ../include/Views/Configuration.hpp
 include/CMakeFiles/Views.dir/Views/TileContainerView.cpp.o: ../include/Views/Configuration.hpp
 include/CMakeFiles/Views.dir/Views/TileContainerView.cpp.o: ../include/Views/TileContainerView.cpp
@@ -38,6 +39,7 @@ include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/GameLogic/Netwo
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Resources/ResourceHolder.hpp
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Resources/ResourceManager.hpp
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Resources/ResourceManager.tpl
+include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Resources/configuration.hpp
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Views/Configuration.hpp
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Views/Configuration.hpp
 include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o: ../include/Views/TileMapView.cpp

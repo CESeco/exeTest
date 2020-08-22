@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+../include/Resources/ResourceHolder.hpp
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+configuration.hpp
+../include/Resources/configuration.hpp
+ResourceManager.hpp
+../include/Resources/ResourceManager.hpp
+
 /home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceHolder.cpp
 ResourceHolder.hpp
 /home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceHolder.hpp
@@ -15,6 +25,8 @@ SFML/Graphics.hpp
 -
 SFML/Audio.hpp
 -
+configuration.hpp
+/home/ash/Documents/github/SFMLoopShooter/include/Resources/configuration.hpp
 ResourceManager.hpp
 /home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceManager.hpp
 
@@ -35,4 +47,8 @@ ResourceManager.tpl
 /home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceManager.tpl
 
 /home/ash/Documents/github/SFMLoopShooter/include/Resources/ResourceManager.tpl
+
+/home/ash/Documents/github/SFMLoopShooter/include/Resources/configuration.hpp
+Resources/ResourceHolder.hpp
+-
 

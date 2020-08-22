@@ -12,6 +12,7 @@ include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/GameLogic/Networ
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Resources/ResourceHolder.hpp
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Resources/ResourceManager.hpp
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Resources/ResourceManager.tpl
+include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Resources/configuration.hpp
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Views/Configuration.hpp
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Entity/Entity.hpp
 include/CMakeFiles/Entities.dir/Entity/Player.cpp.o: ../include/Entity/Player.cpp

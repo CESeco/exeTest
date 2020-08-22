@@ -281,6 +281,33 @@ GUI/Button.cpp.s:
 	cd /home/ash/Documents/github/SFMLoopShooter/build && $(MAKE) -f include/CMakeFiles/GUI.dir/build.make include/CMakeFiles/GUI.dir/GUI/Button.cpp.s
 .PHONY : GUI/Button.cpp.s
 
+GUI/TextBox.o: GUI/TextBox.cpp.o
+
+.PHONY : GUI/TextBox.o
+
+# target to build an object file
+GUI/TextBox.cpp.o:
+	cd /home/ash/Documents/github/SFMLoopShooter/build && $(MAKE) -f include/CMakeFiles/GUI.dir/build.make include/CMakeFiles/GUI.dir/GUI/TextBox.cpp.o
+.PHONY : GUI/TextBox.cpp.o
+
+GUI/TextBox.i: GUI/TextBox.cpp.i
+
+.PHONY : GUI/TextBox.i
+
+# target to preprocess a source file
+GUI/TextBox.cpp.i:
+	cd /home/ash/Documents/github/SFMLoopShooter/build && $(MAKE) -f include/CMakeFiles/GUI.dir/build.make include/CMakeFiles/GUI.dir/GUI/TextBox.cpp.i
+.PHONY : GUI/TextBox.cpp.i
+
+GUI/TextBox.s: GUI/TextBox.cpp.s
+
+.PHONY : GUI/TextBox.s
+
+# target to generate assembly for a file
+GUI/TextBox.cpp.s:
+	cd /home/ash/Documents/github/SFMLoopShooter/build && $(MAKE) -f include/CMakeFiles/GUI.dir/build.make include/CMakeFiles/GUI.dir/GUI/TextBox.cpp.s
+.PHONY : GUI/TextBox.cpp.s
+
 GUI/Widget.o: GUI/Widget.cpp.o
 
 .PHONY : GUI/Widget.o
@@ -439,6 +466,9 @@ help:
 	@echo "... GUI/Button.o"
 	@echo "... GUI/Button.i"
 	@echo "... GUI/Button.s"
+	@echo "... GUI/TextBox.o"
+	@echo "... GUI/TextBox.i"
+	@echo "... GUI/TextBox.s"
 	@echo "... GUI/Widget.o"
 	@echo "... GUI/Widget.i"
 	@echo "... GUI/Widget.s"

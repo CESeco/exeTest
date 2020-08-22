@@ -13,6 +13,7 @@ include/CMakeFiles/Entities.dir/Entity/Player.cpp.o
  ../include/Resources/ResourceHolder.hpp
  ../include/Resources/ResourceManager.hpp
  ../include/Resources/ResourceManager.tpl
+ ../include/Resources/configuration.hpp
  ../include/Views/Configuration.hpp
  /home/ash/Documents/github/SFMLoopShooter/include/Entity/Entity.hpp
  /home/ash/Documents/github/SFMLoopShooter/include/Entity/Player.cpp

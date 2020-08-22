@@ -13,6 +13,10 @@ src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o
  ../include/Event/ActionTarget.hpp
  ../include/Event/ActionTarget.tpl
  ../include/Event/EventRecorder.hpp
+ ../include/GUI/Button.hpp
+ ../include/GUI/Text.hpp
+ ../include/GUI/TextBox.hpp
+ ../include/GUI/Widget.hpp
  ../include/GameLogic/Configuration.hpp
  ../include/GameLogic/GameClient.hpp
  ../include/GameLogic/GameHost.hpp
@@ -22,7 +26,9 @@ src/CMakeFiles/SFMLoopShooter.dir/main.cpp.o
  ../include/Resources/ResourceHolder.hpp
  ../include/Resources/ResourceManager.hpp
  ../include/Resources/ResourceManager.tpl
+ ../include/Resources/configuration.hpp
  ../include/Views/Configuration.hpp
+ ../include/Views/SplashScreen.hpp
  ../include/Views/TileContainerView.hpp
  ../include/Views/TileMapView.hpp
  /home/ash/Documents/github/SFMLoopShooter/src/main.cpp

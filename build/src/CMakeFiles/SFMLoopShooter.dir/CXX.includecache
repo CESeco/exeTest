@@ -23,6 +23,8 @@ iostream
 -
 Resources/ResourceHolder.hpp
 -
+Resources/configuration.hpp
+-
 
 ../include/Entity/Player.hpp
 Entity.hpp
@@ -40,6 +42,8 @@ Projectile.hpp
 SFML/Network.hpp
 -
 GameLogic/NetworkHandler.hpp
+-
+Resources/configuration.hpp
 -
 
 ../include/Entity/Projectile.hpp
@@ -96,6 +100,40 @@ utility
 vector
 -
 functional
+-
+
+../include/GUI/Button.hpp
+Widget.hpp
+../include/GUI/Widget.hpp
+functional
+-
+string
+-
+Event/ActionMap.hpp
+-
+Event/ActionTarget.hpp
+-
+Event/Action.hpp
+-
+
+../include/GUI/Text.hpp
+SFML/Graphics.hpp
+-
+Widget.hpp
+../include/GUI/Widget.hpp
+
+../include/GUI/TextBox.hpp
+functional
+-
+Widget.hpp
+../include/GUI/Widget.hpp
+
+../include/GUI/Widget.hpp
+SFML/Graphics.hpp
+-
+memory
+-
+Resources/ResourceHolder.hpp
 -
 
 ../include/GameLogic/Configuration.hpp
@@ -159,6 +197,8 @@ SFML/Graphics.hpp
 -
 SFML/Audio.hpp
 -
+configuration.hpp
+../include/Resources/configuration.hpp
 ResourceManager.hpp
 ../include/Resources/ResourceManager.hpp
 
@@ -180,7 +220,21 @@ ResourceManager.tpl
 
 ../include/Resources/ResourceManager.tpl
 
+../include/Resources/configuration.hpp
+Resources/ResourceHolder.hpp
+-
+
 ../include/Views/Configuration.hpp
+
+../include/Views/SplashScreen.hpp
+GUI/Widget.hpp
+-
+GUI/Button.hpp
+-
+GUI/TextBox.hpp
+-
+GUI/Text.hpp
+-
 
 ../include/Views/TileContainerView.hpp
 TileMapView.hpp
@@ -206,6 +260,8 @@ Configuration.hpp
 Entity/Configuration.hpp
 -
 vector
+-
+Resources/configuration.hpp
 -
 
 /home/ash/Documents/github/SFMLoopShooter/src/main.cpp
@@ -238,5 +294,9 @@ GameLogic/NetworkHandler.hpp
 GameLogic/GameHost.hpp
 -
 SFML/Network.hpp
+-
+Resources/configuration.hpp
+-
+Views/SplashScreen.hpp
 -
 

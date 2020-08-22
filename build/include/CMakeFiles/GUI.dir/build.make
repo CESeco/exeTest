@@ -83,19 +83,34 @@ include/CMakeFiles/GUI.dir/GUI/Widget.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GUI.dir/GUI/Widget.cpp.s"
 	cd /home/ash/Documents/github/SFMLoopShooter/build/include && /bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ash/Documents/github/SFMLoopShooter/include/GUI/Widget.cpp -o CMakeFiles/GUI.dir/GUI/Widget.cpp.s
 
+include/CMakeFiles/GUI.dir/GUI/TextBox.cpp.o: include/CMakeFiles/GUI.dir/flags.make
+include/CMakeFiles/GUI.dir/GUI/TextBox.cpp.o: ../include/GUI/TextBox.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/ash/Documents/github/SFMLoopShooter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object include/CMakeFiles/GUI.dir/GUI/TextBox.cpp.o"
+	cd /home/ash/Documents/github/SFMLoopShooter/build/include && /bin/g++-9  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GUI.dir/GUI/TextBox.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/include/GUI/TextBox.cpp
+
+include/CMakeFiles/GUI.dir/GUI/TextBox.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GUI.dir/GUI/TextBox.cpp.i"
+	cd /home/ash/Documents/github/SFMLoopShooter/build/include && /bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ash/Documents/github/SFMLoopShooter/include/GUI/TextBox.cpp > CMakeFiles/GUI.dir/GUI/TextBox.cpp.i
+
+include/CMakeFiles/GUI.dir/GUI/TextBox.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GUI.dir/GUI/TextBox.cpp.s"
+	cd /home/ash/Documents/github/SFMLoopShooter/build/include && /bin/g++-9 $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ash/Documents/github/SFMLoopShooter/include/GUI/TextBox.cpp -o CMakeFiles/GUI.dir/GUI/TextBox.cpp.s
+
 # Object files for target GUI
 GUI_OBJECTS = \
 "CMakeFiles/GUI.dir/GUI/Button.cpp.o" \
-"CMakeFiles/GUI.dir/GUI/Widget.cpp.o"
+"CMakeFiles/GUI.dir/GUI/Widget.cpp.o" \
+"CMakeFiles/GUI.dir/GUI/TextBox.cpp.o"
 
 # External object files for target GUI
 GUI_EXTERNAL_OBJECTS =
 
 include/libGUI.a: include/CMakeFiles/GUI.dir/GUI/Button.cpp.o
 include/libGUI.a: include/CMakeFiles/GUI.dir/GUI/Widget.cpp.o
+include/libGUI.a: include/CMakeFiles/GUI.dir/GUI/TextBox.cpp.o
 include/libGUI.a: include/CMakeFiles/GUI.dir/build.make
 include/libGUI.a: include/CMakeFiles/GUI.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ash/Documents/github/SFMLoopShooter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libGUI.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ash/Documents/github/SFMLoopShooter/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX static library libGUI.a"
 	cd /home/ash/Documents/github/SFMLoopShooter/build/include && $(CMAKE_COMMAND) -P CMakeFiles/GUI.dir/cmake_clean_target.cmake
 	cd /home/ash/Documents/github/SFMLoopShooter/build/include && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/GUI.dir/link.txt --verbose=$(VERBOSE)
 

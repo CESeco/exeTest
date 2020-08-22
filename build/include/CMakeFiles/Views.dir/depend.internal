@@ -18,6 +18,7 @@ include/CMakeFiles/Views.dir/Views/TileContainerView.cpp.o
  ../include/Resources/ResourceHolder.hpp
  ../include/Resources/ResourceManager.hpp
  ../include/Resources/ResourceManager.tpl
+ ../include/Resources/configuration.hpp
  ../include/Views/Configuration.hpp
  /home/ash/Documents/github/SFMLoopShooter/include/Views/Configuration.hpp
  /home/ash/Documents/github/SFMLoopShooter/include/Views/TileContainerView.cpp
@@ -39,6 +40,7 @@ include/CMakeFiles/Views.dir/Views/TileMapView.cpp.o
  ../include/Resources/ResourceHolder.hpp
  ../include/Resources/ResourceManager.hpp
  ../include/Resources/ResourceManager.tpl
+ ../include/Resources/configuration.hpp
  ../include/Views/Configuration.hpp
  /home/ash/Documents/github/SFMLoopShooter/include/Views/Configuration.hpp
  /home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.cpp

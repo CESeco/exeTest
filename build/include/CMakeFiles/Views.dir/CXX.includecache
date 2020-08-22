@@ -23,6 +23,8 @@ iostream
 -
 Resources/ResourceHolder.hpp
 -
+Resources/configuration.hpp
+-
 
 ../include/Entity/Player.hpp
 Entity.hpp
@@ -40,6 +42,8 @@ Projectile.hpp
 SFML/Network.hpp
 -
 GameLogic/NetworkHandler.hpp
+-
+Resources/configuration.hpp
 -
 
 ../include/Entity/Projectile.hpp
@@ -127,6 +131,8 @@ SFML/Graphics.hpp
 -
 SFML/Audio.hpp
 -
+configuration.hpp
+../include/Resources/configuration.hpp
 ResourceManager.hpp
 ../include/Resources/ResourceManager.hpp
 
@@ -148,6 +154,10 @@ ResourceManager.tpl
 
 ../include/Resources/ResourceManager.tpl
 
+../include/Resources/configuration.hpp
+Resources/ResourceHolder.hpp
+-
+
 ../include/Views/Configuration.hpp
 
 /home/ash/Documents/github/SFMLoopShooter/include/Views/Configuration.hpp
@@ -162,6 +172,12 @@ Configuration.hpp
 TileMapView.hpp
 /home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.hpp
 GameLogic/GameLogic.hpp
+-
+
+/home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.cpp
+TileMapView.hpp
+/home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.hpp
+iostream
 -
 
 /home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.hpp
@@ -182,5 +198,7 @@ Configuration.hpp
 Entity/Configuration.hpp
 -
 vector
+-
+Resources/configuration.hpp
 -
 

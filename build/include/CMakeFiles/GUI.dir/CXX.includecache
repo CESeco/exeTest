@@ -57,6 +57,8 @@ SFML/Graphics.hpp
 -
 SFML/Audio.hpp
 -
+configuration.hpp
+../include/Resources/configuration.hpp
 ResourceManager.hpp
 ../include/Resources/ResourceManager.hpp
 
@@ -77,6 +79,10 @@ ResourceManager.tpl
 ../include/Resources/ResourceManager.tpl
 
 ../include/Resources/ResourceManager.tpl
+
+../include/Resources/configuration.hpp
+Resources/ResourceHolder.hpp
+-
 
 /home/ash/Documents/github/SFMLoopShooter/include/GUI/Button.cpp
 Button.hpp

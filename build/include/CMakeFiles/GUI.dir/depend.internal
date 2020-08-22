@@ -11,8 +11,17 @@ include/CMakeFiles/GUI.dir/GUI/Button.cpp.o
  ../include/Resources/ResourceHolder.hpp
  ../include/Resources/ResourceManager.hpp
  ../include/Resources/ResourceManager.tpl
+ ../include/Resources/configuration.hpp
  /home/ash/Documents/github/SFMLoopShooter/include/GUI/Button.cpp
  /home/ash/Documents/github/SFMLoopShooter/include/GUI/Button.hpp
+ /home/ash/Documents/github/SFMLoopShooter/include/GUI/Widget.hpp
+include/CMakeFiles/GUI.dir/GUI/TextBox.cpp.o
+ ../include/Resources/ResourceHolder.hpp
+ ../include/Resources/ResourceManager.hpp
+ ../include/Resources/ResourceManager.tpl
+ ../include/Resources/configuration.hpp
+ /home/ash/Documents/github/SFMLoopShooter/include/GUI/TextBox.cpp
+ /home/ash/Documents/github/SFMLoopShooter/include/GUI/TextBox.hpp
  /home/ash/Documents/github/SFMLoopShooter/include/GUI/Widget.hpp
 include/CMakeFiles/GUI.dir/GUI/Widget.cpp.o
  /home/ash/Documents/github/SFMLoopShooter/include/GUI/Widget.cpp

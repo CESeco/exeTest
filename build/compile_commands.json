@@ -11,6 +11,11 @@
 },
 {
   "directory": "/home/ash/Documents/github/SFMLoopShooter/build/include",
+  "command": "/bin/g++-9   -I/home/ash/Documents/github/SFMLoopShooter/include  -g   -o CMakeFiles/GUI.dir/GUI/TextBox.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/include/GUI/TextBox.cpp",
+  "file": "/home/ash/Documents/github/SFMLoopShooter/include/GUI/TextBox.cpp"
+},
+{
+  "directory": "/home/ash/Documents/github/SFMLoopShooter/build/include",
   "command": "/bin/g++-9   -I/home/ash/Documents/github/SFMLoopShooter/include  -g   -o CMakeFiles/Views.dir/Views/TileMapView.cpp.o -c /home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.cpp",
   "file": "/home/ash/Documents/github/SFMLoopShooter/include/Views/TileMapView.cpp"
 },
