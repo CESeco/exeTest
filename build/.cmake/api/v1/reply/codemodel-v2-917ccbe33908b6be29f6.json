@@ -1,0 +1,143 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "include",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "include",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						6
+					]
+				},
+				{
+					"build" : "src",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "SFMLoopShooter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Entities::@14b3099d61bfdbeae804",
+					"jsonFile" : "target-Entities-Debug-70eb932225f7798e9660.json",
+					"name" : "Entities",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Event::@14b3099d61bfdbeae804",
+					"jsonFile" : "target-Event-Debug-a685df503264f6003baa.json",
+					"name" : "Event",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GUI::@14b3099d61bfdbeae804",
+					"jsonFile" : "target-GUI-Debug-cb402afb54db3c859060.json",
+					"name" : "GUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "GameLogic::@14b3099d61bfdbeae804",
+					"jsonFile" : "target-GameLogic-Debug-0c63beb810e6ea03a14c.json",
+					"name" : "GameLogic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Resource::@14b3099d61bfdbeae804",
+					"jsonFile" : "target-Resource-Debug-02ebf1659908bba5bd5b.json",
+					"name" : "Resource",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "SFMLoopShooter::@145eef247bfb46b6828c",
+					"jsonFile" : "target-SFMLoopShooter-Debug-306f25c44fac62d73275.json",
+					"name" : "SFMLoopShooter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Views::@14b3099d61bfdbeae804",
+					"jsonFile" : "target-Views-Debug-2d65a0d859898e2f834e.json",
+					"name" : "Views",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ash/Documents/github/SFMLoopShooter/build",
+		"source" : "/home/ash/Documents/github/SFMLoopShooter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

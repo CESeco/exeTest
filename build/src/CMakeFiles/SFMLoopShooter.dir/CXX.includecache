@@ -145,6 +145,14 @@ iostream
 -
 string
 -
+GUI/Button.hpp
+-
+GUI/Text.hpp
+-
+GUI/TextBox.hpp
+-
+NetworkHandler.hpp
+../include/GameLogic/NetworkHandler.hpp
 
 ../include/GameLogic/GameHost.hpp
 SFML/Network.hpp
@@ -152,6 +160,10 @@ SFML/Network.hpp
 iostream
 -
 string
+-
+thread
+-
+GUI/Text.hpp
 -
 
 ../include/GameLogic/GameLogic.hpp
@@ -179,18 +191,6 @@ SFML/Network.hpp
 -
 
 ../include/GameLogic/NetworkInterface.hpp
-SFML/Network.hpp
--
-iostream
--
-Configuration.hpp
-../include/GameLogic/Configuration.hpp
-GameHost.hpp
-../include/GameLogic/GameHost.hpp
-GameClient.hpp
-../include/GameLogic/GameClient.hpp
-NetworkHandler.hpp
-../include/GameLogic/NetworkHandler.hpp
 
 ../include/Resources/ResourceHolder.hpp
 SFML/Graphics.hpp
@@ -234,6 +234,10 @@ GUI/Button.hpp
 GUI/TextBox.hpp
 -
 GUI/Text.hpp
+-
+GameLogic/GameClient.hpp
+-
+GameLogic/GameHost.hpp
 -
 
 ../include/Views/TileContainerView.hpp
